@@ -1,0 +1,24 @@
+Aula 1: Projeto Integrador - Programação aplicada ao Direito
+T1 - Conceitos Iniciais
+Professor: Eduardo Mangeli 
+Aluna: Isadora Freitas
+
+1 - Forneça a definição do termo ARQUIVO, no contexto da computação 
+Conforme o Dicionário Brasileiro de Terminologia Arquivística (2005) o arquivo é um conjunto de documentos produzidos e acumulados por uma entidade coletiva, pública ou privada, pessoa ou família, no desempenho de suas atividades, independentemente da natureza do suporte. Ademais, segundo Schellenberg, em seu clássico Arquivos modernos:  Princípios e técnicas, afirma que: “desde que se começou a registrar a história em documentos, surgiu para o homem o problema de organizá-los”, visto que o homem sempre teve necessidade de organizar os registros da sua atividade.
+No entanto, para a informática, um arquivo é um conjunto de dados que se relacionam de alguma forma, ou seja, juntos descrevem uma informação ou conjunto de informações e para a natureza dos computadores, eles são sempre formados por dados digitais, organizados seguindo algum tipo de estrutura (ou formato). Além disso, os documentos de um arquivo podem ser classificados de diversas formas, consoante ao seu gênero, tais são: textuais, cartográficos, filmográficos, sonoros, digitais e iconográficos.
+Vale ressaltar que, cada arquivo precisa de uma identificação, isto significa que do ponto de vista de um computador, arquivos são geralmente identificados por números (como os inodes, isto é uma estrutura de dados que armazena informações). Em contrapartida, do ponto de vista do usuário de um computador, um arquivo é – normalmente – representado por um nome.  
+
+1.1 - O que é um ARQUIVO DE TEXTO? 
+Em resumo, um arquivo de texto é um formato de arquivo básico e versátil que armazena texto simples, tornando-o legível por humanos e máquinas. Isto significa que, a cada determinado número, o computador vai numa tabela e vê qual caractere aquilo representa.
+Ademais, os arquivos de texto são frequentemente usados ​​para criar scripts de programação, armazenar dados em um formato estruturado (como arquivos CSV ou JSON), escrever documentos e muito mais e, geralmente, têm uma extensão de arquivo .txt, embora outras extensões sejam usadas dependendo do caso de uso específico (como .csv para valores separados por vírgula ou .html para arquivos de linguagem de marcação de hipertexto).
+No entanto, diferente de um arquivo comum – um conjunto de dados ao qual você dá o nome – que pode ser representado por fotos, por exemplo, aqui, no arquivo de texto, isso não será possível.
+
+2 - Explique o que é uma VARIÁVEL, no contexto da programação de computadores 
+Uma variável, no contexto da programação de computadores, é um espaço na memória que recebe um valor. Dessa forma, significa dizer que, uma variável é um espaço na memória do computador destinado a um dado que é alterado durante a execução do algoritmo e para funcionar corretamente, as variáveis precisam ser definidas por nomes e tipos.  
+
+3 - Explique o que seria um SERVIDOR, no contexto da computação 
+Um servidor é um computador ou software mais potente que um desktop comum. Ele é capaz de conter um ou mais processadores, além de bancos de memórias, portas de comunicação, diferentes softwares e sistemas de armazenamento de dados. Isto significa que, o servidor pode ser um computador ou um programa (que atende outros através da rede).
+Contudo, para a legislação brasileira o servidor – visto como sistema – possui certos sinônimos, dois deles são: provedor de aplicação e provedor de acesso. Respectivamente, o primeiro é uma empresa que fornece um sistema, que é uma aplicação, já o segundo é uma empresa que fornece acesso a infraestrutura. 
+
+4 - Crie uma conta e um repositório no GITHUB
+https://github.com/dorafreitas/one-direction-.git
