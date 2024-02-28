@@ -22,3 +22,34 @@ Contudo, para a legislação brasileira o servidor – visto como sistema – po
 
 4 - Crie uma conta e um repositório no GITHUB
 https://github.com/dorafreitas/one-direction-.git
+
+Aula 2: Projeto Integrador - Programação aplicada ao Direito
+T2 - Computadores e Arquivos
+Professor: Eduardo Mangeli 
+Aluna: Isadora Freitas
+
+1 – Encontre referências e comente:
+(a) A relação entre a LGPD e os Data Centers no Brasil 
+A Lei Geral de Proteção de Dados (LGPD) obriga as organizações a serem mais responsáveis com o gerenciamento das informações armazenadas, visto que muitos dados pessoais ficam expostos online, correndo riscos de serem acessados para o uso indevido. Esse aspecto mostra a necessidade de um cuidado especial com a administração do Data Center.
+Vale destacar que o Data Center nada mais é do que um conjunto de equipamentos utilizados por uma organização para o processamento e armazenamento de dados, sistemas e aplicações. Essa estrutura reúne servidores, banco de dados informatizados e componentes auxiliares, como storages e ativos de rede. Uma das funções mais importantes é assegurar que as informações e sistemas hospedados nos Data Centers possam ser acessados a qualquer momento.
+A estrutura do controlador do Data Center é o local onde rodam o sistema e a rede de dados é instalada e mantida, e é neste lugar que se deve operar com base nos preceitos da LGPD.
+Desta forma, existem alguns requisitos fundamentais para assegurar as condições de segurança e as premissas da LGPD para Data Centers: 
+Mapeamento de quais dados são tratados, por quais áreas e com qual finalidade: Para evitar o acesso indevido às informações, é preciso haver um mapeamento dos dados que estão sob a responsabilidade de uma instituição;
+Política de controle de acesso físico e online: Com o intuito de minimizar as probabilidades de roubo ou vazamento de dados, as organizações devem ter um maior rigor com a política de acesso aos ambientes físicos e virtuais. Além disso, ao evitar a presença de pessoas não autorizadas em um Data Center e limitar o acesso aos sistemas de gestão de ambientes de TI, torna-se viável estar de acordo com as regras da LGPD;
+Monitoramento frequente de recursos: A relação impactante entre Data Center e a Lei Geral de Proteção de Dados envolve o investimento em aprimorar o monitoramento do ambiente e essa prática ajuda a prevenir e eliminar as ameaças virtuais.
+Ademais, a relação entre a LGPD e os Data Centers no Brasil traz uma garantia de que a informação, mesmo manipulada, mantenha seu conteúdo e suas características originais, bem como mantém a informação sempre disponível para uso legítimo. Para além, é importante frisar que apesar de não atuar diretamente no processamento de dados dos usuários e de não exercer a responsabilidade sobre tais informações, cabe aos Data Centers, garantir a proteção física dos ambientes em que a gestão das informações seja segura.
+
+(b) Formatos de arquivos de dados proprietários e abertos 
+Formato é um modo específico de codificar a informação para o seu armazenamento e recuperação em um arquivo de computador. Formatos portam padrões e são implementados por softwares, podendo ser abertos ou fechados, livres ou proprietários. Os formatos proprietários representam a privatização da memória digital. Arquivos salvos em formatos abertos são arquivos que seguem padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos.
+Sendo assim, o objetivo principal dos formatos abertos é garantir o acesso a longo prazo aos dados sem incertezas atuais ou futuras no que diz respeito às direitas legais ou à especificação técnica. Um objetivo secundário dos formatos abertos é permitir a competição, em vez de permitir que o controle de um distribuidor sobre um formato proprietário iniba o uso de um produto de competição.
+Em resumo, um formato aberto deve ser implementável tanto em software proprietário como em software livre, usando as licenças típicas de cada um. Em contraste, o formato proprietário é controlado e defendido por interesses particulares da empresa detentora de seus direitos.
+
+I. Forneça exemplos de formatos
+Exemplos de formatos proprietários:  DWG - AutoCad Drawing; SWF - Shockwave Flash; DOC - formato proprietário de texto e PPT - formato proprietário de apresentação de slides.
+Exemplos de formatos abertos: Texto - .odt; Planilha - .ods; Apresentação .odp e E-book - epub. 
+Exemplo de formato proprietário e aberto: MP3 (padrão internacional, visto que suas especificações são públicas, o que difunde o formato). 
+
+II. Discuta as implicações relacionadas a dados públicos 
+O formato de dado para ser aberto e público deve estar disponível na internet (url) e em formato compreensível por máquina (padrão aberto), para que ele possa ter utilidade e ser reaproveitado. Além disso, sua redistribuição deve ser legal (livre). Isso significa que, esses dados não estarão sujeitos a limitações válidas de privacidade, segurança ou controle de acesso, reguladas por estatutos. Em resumo, são dados oriundos da ação de governo / estado que não possuem restrição de privacidade. 
+
+2 – Inclua seus comentários no arquivo de texto no GITHUB
