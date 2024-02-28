@@ -1,0 +1,37 @@
+Aula 3: Projeto Integrador - Programação aplicada ao Direito
+T3 - Linguagens de Programação
+Professor: Eduardo Mangeli 
+Aluna: Isadora Freitas
+
+1. Explique as diferenças entre 3 linguagens de programação: 
+* Contexto das 3 linguagens de programação: 
+O Java é uma linguagem de programação relativamente antiga, de antes dos anos 2000, mas que é uma das mais usadas nos ambientes de desenvolvimento corporativos e no mundo, afinal, é a base de diversos sistemas, como o Android.  Já, a Swift é uma linguagem de programação desenvolvida pela Apple, que só surgiu em 2014, com o objetivo de otimizar e tornar ainda mais acessível o desenvolvimento de aplicativos para os sistemas operacionais iOS, macOS, watchOS e tvOS. Por sua vez, a Python é a linguagem de programação mais usada nos últimos anos e é considerada uma das linguagens mais fáceis.
+* Características das 3 linguagens de programação: 
+O Java é considerado potável e escalável, o que demonstra a presença de uma comunidade forte e extensa. Além de ser uma linguagem versátil e robusta, compatível com qualquer plataforma. Entretanto, a Swift foi projetada para ser fácil de aprender e usar, combinando elementos de outras linguagens de programação como Objective-C, C#, Rust e Python, bem como oferece recursos poderosos, como inferência de tipo, gerenciamento automático de memória, tratamento de erros avançado, programação funcional e suporte a protocolos. Por outro lado, a Python – com uma sintaxe simples e extremamente legível – torna o desenvolvimento menos verboso, e portanto, tem uma enorme comunidade, com uma infinidade de bibliotecas (pacotes de códigos prontos e reutilizáveis) e capacidade de integrações robustas. 
+* Objetivos das 3 linguagens de programação: 
+Com o Java é possível desenvolver websites, aplicativos multiplataforma; aplicações de servidor; jogos e etc. Já a Swift foi criada para dar ainda mais liberdade para os desenvolvedores na criação de apps para iOS, Mac, Apple TV e Apple Watch, por exemplo. Em contrapartida, o Python é comumente usado para análise de dados; visualização de dados; automação; websites; softwares e dentre outros. 
+
+- Bibliografia:
+https://www.dio.me/articles/tudo-sobre-swift-a-linguagem-de-programacao-da-apple
+https://pt.linkedin.com/pulse/qual-diferen%C3%A7a-entre-linguagens-de-programa%C3%A7%C3%A3o-mais-conhecidas-
+
+(a) Tente fazer um código mínimo em cada uma delas: 
+Python: print('hello brazil')
+
+Java: import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+// The main method must be in a class named "Main".
+class Main {
+    public static void main(String[] args) {
+        System.out.println("hello brazil!");
+    }
+}
+
+Swift: print("Hello brazil!")
+
+(b) Tente executar o seu código:
+
+
+2. Inclua seus comentários e prova de execução em um novo arquivo de texto NO github
