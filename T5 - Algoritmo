@@ -1,5 +1,9 @@
+Aula 5: Projeto Integrador - Programação aplicada ao Direito
+T5 - Algoritmo
+Professor: Eduardo Mangeli 
+Aluna: Isadora Freitas
+
 1 – implemente o algoritmo de ordenação Bubble Sort usando python;
-2 – implemente um algorítmo que imprima apenas as vogais de uma
-determinada palavra ou frase.
-dica 1: textos no python são sequências
-dica 2: use uma variável para armazenar a palavra
+2 – implemente um algorítmo que imprima apenas as vogais de uma determinada palavra ou frase.
+  dica 1: textos no python são sequências
+  dica 2: use uma variável para armazenar a palavra
