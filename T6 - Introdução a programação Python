@@ -2,3 +2,32 @@ Aula 6: Projeto Integrador - Programação aplicada ao Direito
 T6 - Introdução a programação Python
 Professor: Eduardo Mangeli 
 Aluna: Isadora Freitas
+
+numero1 = 15
+numero2 = 65
+numero3 = 80
+numero4 = 200
+
+media = (numero1 + numero2 + numero3 + numero4) / 4
+print ("A média é", media)
+
+quadrado = numero4 ** 2
+print ("O numero1 ao quadrado é", quadrado)
+
+dobro = numero2 * 2
+print ("O dobro do numero2 é", dobro)
+
+
+palavra = "Amor"
+letras = len(palavra)
+print ("Quantidade de letras da palavra = ", letras)
+
+frase = "Meu nome é Isadora!"
+qtd = frase.count(' ')
+print("Quantidade de espaços em branco na frase =", qtd)
+
+num = numero1 > numero2
+print ("O primeiro é maior que o segundo?", num)
+
+maior = max(numero1, numero2, numero3, numero4)
+print ("O maior número é", maior)
